@@ -1,0 +1,11 @@
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\bin\Debug\BOL.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\bin\Debug\BOL.pdb
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\bin\Debug\DAL.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\bin\Debug\ENTITIES.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\bin\Debug\DAL.pdb
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\bin\Debug\ENTITIES.pdb
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\obj\Debug\BOL.csproj.CopyComplete
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\obj\Debug\BOL.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\BOL\obj\Debug\BOL.pdb

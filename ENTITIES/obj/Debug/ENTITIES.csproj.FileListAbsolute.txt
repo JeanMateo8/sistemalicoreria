@@ -1,0 +1,6 @@
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\ENTITIES\bin\Debug\ENTITIES.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\ENTITIES\bin\Debug\ENTITIES.pdb
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\ENTITIES\obj\Debug\ENTITIES.csproj.AssemblyReference.cache
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\ENTITIES\obj\Debug\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\ENTITIES\obj\Debug\ENTITIES.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAACTUAL\LICORERIA\ENTITIES\obj\Debug\ENTITIES.pdb
